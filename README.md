@@ -1,6 +1,16 @@
 # API do GeekWorld (Rede social para todos que gostam de anime)
 
-## Rotas da API
+## 🚀 Tecnologias Utilizadas
+
+    - C#
+    - .NET
+    - Entity Framework
+
+## 📂 Arquitetura
+
+    - Onion Architecture
+
+## ✨ Rotas da API
 
 - Context Path: /api
 
